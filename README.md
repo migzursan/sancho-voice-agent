@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/sancho-banner.png" alt="Sancho Voice Agent" width="800"/>
+  <img src="sancho-banner.png" alt="Sancho Voice Agent" width="800"/>
 </p>
 
 <h1 align="center">Sancho — Personal Voice Agent</h1>
