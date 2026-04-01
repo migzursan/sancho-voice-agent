@@ -2,7 +2,6 @@
   <img src="sancho-banner.png" alt="Sancho Voice Agent" width="800"/>
 </p>
 
-<h1 align="center">Sancho — Personal Voice Agent</h1>
 
 <p align="center">
   <strong>A locally-hosted, voice-activated AI assistant with modular integrations and privacy-first design.</strong>
